@@ -2,5 +2,25 @@
   {
     "package": "flatratemath",
     "url": "https://github.com/scrapertweeter3-prog/flatratemath-r"
+  },
+  {
+    "package": "gigmath",
+    "url": "https://scrapertweeter3-prog/gigmath-r"
+  },
+  {
+    "package": "evaldrift",
+    "url": "https://scrapertweeter3-prog/evaldrift-r"
+  },
+  {
+    "package": "costdecade",
+    "url": "https://scrapertweeter3-prog/costdecade-r"
+  },
+  {
+    "package": "firemath",
+    "url": "https://scrapertweeter3-prog/firemath-r"
+  },
+  {
+    "package": "saunacost",
+    "url": "https://scrapertweeter3-prog/saunacost-r"
   }
 ]
